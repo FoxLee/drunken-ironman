@@ -1,0 +1,3 @@
+I am inherently nervous about programs that try to start me off with template content.
+Well I guess it's okay if they start it with correct viewport info at least.
+Is this working with SourceTree?
