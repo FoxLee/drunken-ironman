@@ -2,3 +2,4 @@ I am inherently nervous about programs that try to start me off with template co
 Well I guess it's okay if they start it with correct viewport info at least.
 Is this working with SourceTree?
 Seems to be working with NetBeans and ssh too!
+testing
